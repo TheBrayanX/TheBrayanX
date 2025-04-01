@@ -1,6 +1,7 @@
 ## 🚀 About Me
 
-Hi 👋, I'm Brayan! I'm 23 years old.
+Hi 👋, I'm Brayan!<br>
+I'm 23 years old.
 
 ⚙️ A passionate Back-end Developer from Colombia ⚙️
 
