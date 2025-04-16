@@ -21,8 +21,8 @@ I'm 23 years old.
 - <img src="https://purepng.com/public/uploads/large/purepng.com-oracle-logologobrand-logoiconslogos-251519939816xngul.png" width="20" height="20"> Oracle
 
 #### Connect with me: brayancarorodriguez@gmail.com
-#### Discord: _brayancaro_
-#### [Linkedin]([http://example.com](https://www.linkedin.com/in/brayan-caro-a605a22b6/))
+#### Portfolio web: Prox.
+#### [Linkedin](https://www.linkedin.com/in/brayan-caro-a605a22b6/)
 
 
 <!--
