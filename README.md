@@ -6,7 +6,7 @@ I'm 23 years old.
 ⚙️ A passionate Back-end Developer from Colombia ⚙️
 
 ### Here is my main technologies:
-[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,mysql,c,bootstrap,django&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,mysql,c,django&theme=light)](https://skillicons.dev)
 
 #### Connect with me: brayancarorodriguez@gmail.com
 #### Portfolio web: Prox.
