@@ -27,8 +27,6 @@
 
 ### 🤝 Let's Connect
 
-HTML
-
 <p align="left">
   <a href="mailto:ceo@playhelios.net">
     <img src="https://img.shields.io/badge/Email-ceo%40playhelios.net-D4AF37?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
